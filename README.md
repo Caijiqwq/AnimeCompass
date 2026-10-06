@@ -4,8 +4,8 @@
   徽章：下面三个带 USER/REPO 的链接，部署后把 `USER`、`REPO` 替换成真实用户名与仓库名即可
   （GitHub Pages 与 Stars 属于动态徽章；其余是静态徽章，现在就能正常显示）
 -->
-[![GitHub Pages](https://img.shields.io/github/deployments/USER/REPO/github-pages?label=GitHub%20Pages&logo=github)](https://USER.github.io/REPO/)
-[![Stars](https://img.shields.io/github/stars/USER/REPO?style=flat&logo=github)](https://github.com/USER/REPO/stargazers)
+[![GitHub Pages](https://img.shields.io/github/deployments/Caijiqwq/AnimeCompass/github-pages?label=GitHub%20Pages&logo=github)](https://Caijiqwq.github.io/AnimeCompass/)
+[![Stars](https://img.shields.io/github/stars/Caijiqwq/AnimeCompass?style=flat&logo=github)](https://github.com/Caijiqwq/AnimeCompass/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-d9738c)](LICENSE)
 
 [![纯静态](https://img.shields.io/badge/%E7%BA%AF%E9%9D%99%E6%80%81-%E6%97%A0%E6%9C%8D%E5%8A%A1%E7%AB%AF-6c8ba0)](#本地运行)
@@ -20,7 +20,7 @@
 一个纯静态的番剧推荐站：把最近在看的番丢进去，或者填一份口味问卷，也可以干脆让它随机抽一部 ——
 从 **6175 部动画**（1963–2026）里挑出接下来值得看的那几部。
 
-**在线体验**：<https://USER.github.io/REPO/> <!-- TODO：部署后把 USER / REPO 换成你的地址 -->
+**在线体验**：<https://Caijiqwq.github.io/AnimeCompass/> <!-- TODO：部署后把 USER / REPO 换成你的地址 -->
 
 ![首页](screenshots/home.png)
 <!-- ↑ 换成真截图：把 screenshots/placeholder.svg 改成 screenshots/home.png 即可，见文末「配套截图」 -->
