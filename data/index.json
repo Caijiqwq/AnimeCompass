@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-10-05T17:06:20.873Z",
+  "count": 6175,
+  "sources": [
+    "AniList GraphQL API",
+    "bangumi-data (bgm.tv 条目索引)"
+  ],
+  "note": "评分来自 AniList averageScore，已除以 10 换算为 10 分制",
+  "supplementalCount": 2,
+  "synopsisZh": {
+    "count": 2858,
+    "fromBangumi": 2836,
+    "fromMoegirl": 22
+  },
+  "bangumi": {
+    "scored": 2721,
+    "ranked": 2697,
+    "source": "Bangumi 番组计划 api.bgm.tv（经本机代理隧道访问）"
+  },
+  "core": "data/core.json",
+  "shards": [
+    {
+      "file": "data/part-00.json",
+      "count": 800
+    },
+    {
+      "file": "data/part-01.json",
+      "count": 800
+    },
+    {
+      "file": "data/part-02.json",
+      "count": 800
+    },
+    {
+      "file": "data/part-03.json",
+      "count": 800
+    },
+    {
+      "file": "data/part-04.json",
+      "count": 800
+    },
+    {
+      "file": "data/part-05.json",
+      "count": 800
+    },
+    {
+      "file": "data/part-06.json",
+      "count": 575
+    }
+  ],
+  "shardCount": 7
+}
